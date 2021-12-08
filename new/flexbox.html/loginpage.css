@@ -1,0 +1,105 @@
+*{
+    box-sizing: border-box;
+}
+.one{
+    height: 400px;
+    width: 750px;
+    border: 1px solid red;
+    margin-left: 250px;
+    margin-top: 100px;
+    background-color: salmon;
+    color: white;
+}
+.two{
+    border: 1px solid black;
+    height: 30px;
+    width: 250px;
+    margin-left: 420px;
+    margin-top: 60px;
+    background-color:darkblue;
+    color: white;
+    font-size: 13px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 250px;
+}
+.three{
+    border: 1px solid black;
+    height: 250px;
+    width: 250px;
+    margin-left: 420px;
+    margin-top: 10px;
+    background-color: white;
+}
+.four{
+    border: 1px solid salmon;
+    height: 160px;
+    width: 300px;
+    margin-left: 100px;
+    margin-top: 140px;
+    max-width: 200px;
+    position: fixed;
+
+}
+.five{
+    border: 1px solid black;
+    height: 30px;
+    width: 200px;
+    margin-left: 25px;
+    margin-top: 15px;
+    color: black;
+    display: flex;
+    align-items: center;
+    font-size: 13px;
+    justify-content: center;
+}
+.seven{
+    border: 1px solid black;
+    height: 30px;
+    width: 200px;
+    margin-left: 25px;
+    margin-top: 15px;
+    color: black;
+    display: flex;
+    align-items: center;
+    font-size: 13px;
+    justify-content: center;
+}
+.eight{
+    border: 1px solid black;
+    height: 30px;
+    width: 200px;
+    margin-left: 25px;
+    margin-top: 15px;
+    color: black;
+    display: flex;
+    align-items: center;
+    font-size: 13px;
+    justify-content: center;
+}
+.nine{
+    border: 1px solid black;
+    height: 30px;
+    width: 200px;
+    margin-left: 25px;
+    margin-top: 15px;
+    color: black;
+    display: flex;
+    align-items: center;
+    font-size: 13px;
+    justify-content: center;
+}
+.ten{
+    border: 1px solid black;
+    height: 30px;
+    width: 200px;
+    margin-left: 25px;
+    margin-top: 15px;
+    color: black;
+    background-color: green;
+    display: flex;
+    align-items: center;
+    font-size: 13px;
+    justify-content: center;
+}

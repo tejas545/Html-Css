@@ -1,0 +1,33 @@
+.box{
+    color: red;
+}
+div h1{
+    color: royalblue;
+}
+div+p{
+    color: seagreen;
+}
+ul>li{
+    color: orangered;
+}
+div~p{
+    color: olive;
+}
+[class="one"]{
+    color: palevioletred;
+}
+P::first-letter{
+    font-size: 2rem;
+}
+p::first-line{
+    font-style: italic;
+}
+li:first-child{
+    color: peru;
+}
+a:hower{
+    color: saddlebrown;
+}
+a:visited{
+    color: orange;
+}

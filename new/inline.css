@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.one,.two{
+    border: 1px solid red;
+    width: 100px;
+    margin: 20px;
+    display: inline;
+}
+.three,.four{
+    border: 1px solid red;
+    width: 100px;
+    margin: 30px;
+    display: block;
+}
+.five,.six{
+    border: 1px solid red;
+    width: 100px;
+    margin: 30px;
+    display: inline-block;
+}

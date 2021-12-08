@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    display: flex;
+    border: 1px solid red;
+    justify-content: space-around;
+    align-items: center;
+    padding: 15px;
+    background-color: silver;
+}
+.two
+{
+    width: 700px;
+    display: flex;
+    justify-content: space-around;
+
+}

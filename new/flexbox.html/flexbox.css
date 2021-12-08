@@ -1,0 +1,62 @@
+*{
+    max-width: 400px;
+}
+.one{
+    border: 1px solid red;
+    height: 50px;
+    display: flex;
+}
+.four{
+    border: 1px solid orange;
+    height: 50px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.five{
+    border: 1px solid green;
+    height: 50px;
+    display: flex;
+    flex-direction: column-reverse;
+}
+.six{
+    border: 1px solid lightcoral;
+    height: 50px;
+    display: flex;
+    flex-wrap: wrap-reverse;
+    }
+.seven{
+    border: 1px solid orchid;
+    height: 50px;
+    display: flex;
+    justify-content: end;
+
+}
+.eight{
+    border: 1px solid yellow;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+}
+.nine{
+    border: 1px solid lightskyblue;
+    height: 50px;
+    display: flex;
+    justify-content:space-around;
+}
+.ten{
+    border: 1px solid lime;
+    height: 50px;
+    display: flex;
+    align-items: flex-end;
+}
+.eleven{
+    border: 1px solid orchid;
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+.twelve{
+    border: 1px solid lightsteelblue;
+    height: 50px;
+    align-items: flex-start;
+}
